@@ -1,1 +1,1 @@
-it's nothing but a code. run it. takes time, but i couldn't come up with a better way to do it as i am very busy right now. but it works :)
+it's nothing but a code. run it. takes time, but i couldn't come up with a better way to do it as i am very busy right now. if match is found, both name and roll will be saved to mfile.txt. have fun, it works :)
