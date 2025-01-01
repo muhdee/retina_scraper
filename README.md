@@ -3,5 +3,22 @@ it's nothing but a code. run it. takes time, but i couldn't come up with a bette
 **Warning: old website does not seem to work. Try running newpy.py instead.**
 <br>
 Common Branch Codes:
-1. Farmgate(CT) - 61
-2. Narsingdi - 85
+<table border="1">
+  <tr>
+    <td>Branch Name</td>
+    <td>Code</td>
+    <td>Roll Example</td>
+</tr>
+  <tr>
+    <td>Farmgate(CT)</td>
+    <td>61</td>
+    <td>618615</td>
+  </tr>
+  <tr>
+    <td>Narsingdi</td>
+<td>85</td>
+<td>851816</td>
+
+ 
+  </tr>
+  </table>
